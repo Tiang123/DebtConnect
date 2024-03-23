@@ -9,4 +9,4 @@ To run the app:
 5. Type "npm start"
 6. Click Log-in button to start
 7. Happy explore!
-8. 
+   
